@@ -3,4 +3,4 @@ $ cat .gitignore
 *~
 *.xml
 /Debug
-/.cproj
+*.cproj
