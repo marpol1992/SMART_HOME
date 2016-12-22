@@ -1,0 +1,6 @@
+$ cat .gitignore
+*.[oa]
+*~
+*.xml
+/Debug
+/.cproj
